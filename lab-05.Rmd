@@ -3,17 +3,18 @@ title: "Lab 05 - Nobel laureates"
 output: github_document
   
 ---
-Team Name:
+Team Name:T5
 
 Team Members - Name and Student ID
 
-1.
+1.Name:wejdan Abdulrhman Al-Harthy /Student ID: 2201001406
 
-2.
+2.Name:wejdan awad Aldhaferi /Student ID: 2201002744
 
-3.
+3.Name:wejdan Mohamad AlAnzi  /Student ID: 2201001616
 
-4.
+4.Name:yazi mohammad Alshmari /Student ID: 2201001895 
+
 
 
 
