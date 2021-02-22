@@ -5,7 +5,7 @@ Team Name:T5
 
 Team Members - Name and Student ID
 
-1.Name:wejdan Abdulrhman Al-Harthy /Student ID: 2201001406
+1.Name:Wejdan Abdulrhman Al-Harthy /Student ID: 2201001406
 
 2.Name:wejdan awad Aldhaferi /Student ID: 2201002744
 
